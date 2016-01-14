@@ -69,7 +69,7 @@ Route::get('/useradmin/groups/ajax', [
 ]);
 
 Route::post('/useradmin/groups/axsave', [
-    'middleware' => 'auth',
+    
     'uses' => 'Useradmin\GroupController@axsave'
 ]);
 Route::get('/useradmin/groups/axsave', [
