@@ -8,7 +8,7 @@
           Anything you want
         </div>
         <!-- Default to the left -->
-        <strong>Copyright &copy; 2015 <a href="#">Company</a>.</strong> All rights reserved.<br>test
+        <strong>Copyright &copy; 2015 <a href="#">DWS mach.iidev</a>.</strong> All rights reserved.
       </footer>
 
       <!-- Control Sidebar -->
